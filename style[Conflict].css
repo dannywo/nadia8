@@ -33,7 +33,7 @@ body {
 }
 
 .cover-container {
-  max-width: 600rem;
+  max-width: 50em;
   overflow: auto;
   display: block;
 }
