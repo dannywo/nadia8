@@ -1,5 +1,5 @@
 /*
- * Globals
+ * Globals - Mod
  */
 
 /* Links */
@@ -33,7 +33,7 @@ body {
 }
 
 .cover-container {
-  max-width: 600rem;
+  max-width: 60rem;
   overflow: auto;
   display: block;
 }
@@ -43,8 +43,6 @@ body {
  */
 .masthead {
   max-width: 42em;
-  /* margin-bottom: 2rem;
-  height: 5em; */
 }
 
 .masthead-brand {
@@ -84,7 +82,6 @@ body {
     min-width: 40em;
   }
 }
-
 
 /* 
  * Slider 
